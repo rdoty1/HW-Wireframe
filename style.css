@@ -1,0 +1,118 @@
+body {
+    height: 1000px;
+    width: 100%;
+    background-color: pink;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-left: 20px;
+}
+
+.headers {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.navs {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.section {
+    width: 50%;
+    height: 450px;
+    background-color: black;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+
+.sections {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.article {
+    width: 90%;
+    height: 300px;
+    background: grey;
+    margin-left: 50px;
+}
+
+.articles {
+    color: white;
+    text-align: center;
+}
+
+.underArt {
+    width: 90%;
+    height: 110px;
+    margin-top: 10px;
+    background-color: white;
+    margin-left: 32px;
+}
+
+.underArts {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+
+.paragraph {
+    width: 90%;
+    height: 110px;
+    margin-top: 10px;
+    background-color: white;
+    margin-left: 32px;
+}
+
+.paragraphOne {
+    padding: 8px;
+    font-size: 14px;
+}
+
+.aside {
+    width: 45%;
+    height: 450px;
+    margin-top: 15px;
+    padding: 10px;
+    margin-left: 20px;
+    float: left;
+    background-color: black;
+}
+
+.wordsAside {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    margin-left: 20px;
+}
+
+.footers {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
